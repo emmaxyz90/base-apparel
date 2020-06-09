@@ -102,7 +102,7 @@ footer .attribution a:hover{
 	color:  hsl(0, 93%, 68%);
 }
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 500px){
 	 .container .main{
 		 padding-left: 20px;
 		 width: 100%;
@@ -121,7 +121,7 @@ footer .attribution a:hover{
 	 }
 	 
 	 .container .main .section-left .bck .img-responsive{
-		 width: 90%;
+		 width: 80%;
 		 padding-bottom: 40px;
 	 }
 	 
@@ -145,7 +145,7 @@ footer .attribution a:hover{
 	 }
 	 
 	 .container .main .section-left .section-bottom input{
-		 width: 70%;
+		 width: 50%;
 		 
 	 }
 }
